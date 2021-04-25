@@ -7,3 +7,16 @@
 .post-title {
     color: #F4645F;
 }
+
+.simple-text{
+    font-weight: bold;
+}
+
+input[type=text]{
+    width: 100%;
+}
+
+input[type=submit]{
+    background-color: #337ab7;
+    color: white;
+}
